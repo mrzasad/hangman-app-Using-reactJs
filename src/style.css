@@ -1,0 +1,20 @@
+.Alphabet{
+    background-color: cornflowerblue;
+}
+.DisabledAlphabet{
+    background-color: darkgray;
+}
+.IncorrectAlphabet{
+    background-color: red;
+}
+.CorrectAlphabet{
+    background-color: greenyellow;
+}
+.Empty{
+    background-color: greenyellow;
+    width: 120px;
+    height: 120px;
+    padding: 10px,10px,10px,10px;
+    color: red;
+    font-size: 45px;
+}
