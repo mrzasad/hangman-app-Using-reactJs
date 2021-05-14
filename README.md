@@ -1,6 +1,9 @@
 # hangman-app
 Hangman App developed using ReactJS
 
+## MVP of Hangman
+ https://en.wikipedia.org/wiki/Hangman_(game)
+
 Startup Instructions
 
 run following commands
